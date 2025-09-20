@@ -20,7 +20,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](Week0/Task0/README.md) | 🛠️ [Tools Installation](Week0/Verify%20Tool%20install/gtkwave_installed.png) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+| [**Task 0**](Week0/Task0/README.md) | 🛠️ [Tools Installation](Week0/Verify%20Tool%20install/gtkwave_installed.png)(Week0/Verify%20Tool%20install/iverilog_installed.png) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
 
 
 
